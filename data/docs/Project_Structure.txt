@@ -1,0 +1,317 @@
+================================================================================
+                        ENTERPRISE CHATBOT
+                         PROJECT STRUCTURE
+================================================================================
+Last Updated: March 24, 2026
+
+================================================================================
+ROOT DIRECTORY
+================================================================================
+/home/master/Documents/My_Courses/GenAI_Projects/Enterprise_Chatbot_002/
+
+├── __init__.py                    # Python package initialization
+├── __pycache__/                   # Python bytecode cache
+├── .env                           # Environment variables (not in repo)
+│
+├── Core Application Files
+│   ├── app.py                     # Main Flask/FastAPI application entry point
+│   ├── config.py                  # Configuration settings and constants
+│   ├── models.py                  # Main model definitions and classes
+│   ├── generator.py               # LLM prompt generation and response logic
+│   ├── retriever.py               # Vector database retrieval and search logic
+│   ├── ingest.py                  # Data ingestion and document processing
+│   └── cashe.py                   # Caching utilities and management
+│
+├── Database & Persistence
+│   ├── rag_saas.db                # SQLite database for application data
+│   ├── users.json                 # User credentials and profiles (JSON)
+│   └── prometheus.yml             # Prometheus monitoring configuration
+│
+├── Logs & Debug
+│   ├── generator_debug.txt        # Debug output from generator module
+│   └── logs/
+│       └── app.log                # Application runtime logs
+│
+├── Requirements & Configuration
+│   └── requirements.txt            # Python dependencies (pip packages)
+│
+├── Source Code Modules
+│   ├── models/                    # Data models and schemas
+│   │   ├── __init__.py
+│   │   ├── schema.py              # Pydantic schemas and data validation
+│   │   └── __pycache__/
+│   │
+│   └── utils/                     # Utility functions and helpers
+│       ├── __init__.py
+│       ├── factory.py             # Factory pattern implementations
+│       ├── helpers.py             # Generic helper functions
+│       ├── logger.py              # Logging configuration and utilities
+│       ├── metrics.py             # Metrics collection and monitoring
+│       └── __pycache__/
+│
+├── Data & Vector Store
+│   ├── data/
+│   │   ├── docs/                  # Documentation and reference materials
+│   │   │   ├── Commands.txt       # Command reference guide
+│   │   │   ├── overview.txt       # Project overview documentation
+│   │   │   ├── Project_Structure.txt (THIS FILE)
+│   │   │   ├── Project_Structure.docx  # MS Word structure document
+│   │   │   ├── Project_Structure.pdf   # PDF version
+│   │   │   ├── Project_Breifing.docx   # Project briefing document
+│   │   │   ├── Project_Breifing.pdf    # Project briefing PDF
+│   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation
+│   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information
+│   │   │
+│   │   └── faiss_index/           # FAISS vector database index
+│   │       ├── index.faiss        # FAISS index binary file
+│   │       └── index.pkl          # Pickle serialized index metadata
+│   │
+│   └── faiss_index/ (duplicate)   # Root level FAISS index copy
+│       └── index.faiss
+│
+└── Frontend
+    └── frontend/                  # Web UI components
+        ├── index.html             # Main HTML template
+        ├── main.js                # Frontend JavaScript logic
+        └── style.css              # Frontend styling
+
+================================================================================
+FILE DESCRIPTIONS & PURPOSES
+================================================================================
+
+CORE MODULES:
+─────────────
+• app.py
+  - Main application entry point
+  - Web framework configuration (Flask/FastAPI)
+  - Route definitions and API endpoints
+  - Global middleware and error handling
+
+• config.py
+  - Environment configuration management
+  - Database connection strings
+  - API keys and secrets management
+  - Application constants and settings
+
+• models.py
+  - Core data models and structures
+  - Database ORM models
+  - Data validation logic
+
+• generator.py
+  - LLM prompt engineering and generation
+  - Response generation from RAG pipeline
+  - Conversation history management
+  - Token counting and optimization
+
+• retriever.py
+  - Vector database query interface
+  - Semantic search implementation
+  - Document relevance ranking
+  - Query expansion and refinement
+
+• ingest.py
+  - Document upload and processing
+  - Text extraction and chunking
+  - Vectorization and embedding
+  - Index population and updates
+
+• cashe.py
+  - Response caching mechanisms
+  - In-memory cache management
+  - Redis integration (if applicable)
+  - Cache invalidation logic
+
+MODELS PACKAGE (models/):
+─────────────────────────
+• schema.py
+  - Pydantic data models
+  - Request/response schemas
+  - Data validation rules
+  - Type hints and constraints
+
+UTILITIES PACKAGE (utils/):
+──────────────────────────
+• factory.py
+  - Factory design pattern implementations
+  - Object creation helpers
+  - Component instantiation logic
+
+• helpers.py
+  - Generic utility functions
+  - String manipulation utilities
+  - Data transformation helpers
+
+• logger.py
+  - Logging configuration
+  - Log formatting and levels
+  - File and console handlers
+
+• metrics.py
+  - Performance metrics collection
+  - Prometheus metrics integration
+  - Request/response tracking
+  - System resource monitoring
+
+DATA & INDEXES:
+───────────────
+• data/docs/: Documentation and training materials
+  - Commands.txt: Available bot commands and usage guide
+  - overview.txt: High-level project description
+  - Project_Structure.*: Project structure documentation
+  - Project_Breifing.*: Project requirements and scope
+
+• data/faiss_index/: Vector search index
+  - index.faiss: FAISS vector index for similarity search
+  - index.pkl: Index metadata and configuration
+
+DATABASE:
+──────────
+• rag_saas.db: SQLite database containing:
+  - User authentication data
+  - Conversation history
+  - Document metadata
+  - Application state
+
+• users.json: User credentials and profile information
+
+FRONTEND:
+─────────
+• frontend/index.html: Web interface template structure
+• frontend/main.js: Client-side application logic
+• frontend/style.css: UI styling and layout
+
+MONITORING:
+────────────
+• prometheus.yml: Prometheus configuration for metrics collection
+
+================================================================================
+ARCHITECTURE OVERVIEW
+================================================================================
+
+The project follows a RAG (Retrieval-Augmented Generation) architecture:
+
+┌─────────────────────────────────────────────────────────────┐
+│                     USER INTERFACE                          │
+│              (frontend: HTML/JS/CSS files)                 │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+┌────────────────────▼────────────────────────────────────────┐
+│                   WEB APPLICATION                           │
+│                    (app.py)                                 │
+│            • Routes & API endpoints                         │
+│            • Request validation                             │
+│            • Error handling                                 │
+└────────┬──────────────────────────────────────────┬─────────┘
+         │                                          │
+         │                                          │
+    ┌────▼──────────────────┐    ┌────────────────▼──────┐
+    │   RETRIEVAL LAYER     │    │ GENERATION LAYER      │
+    │   (retriever.py)      │    │ (generator.py)        │
+    │                       │    │                       │
+    │ • Query processing    │    │ • Prompt engineering  │
+    │ • Vector search       │    │ • LLM integration     │
+    │ • Doc ranking         │    │ • Response streaming  │
+    └────┬──────────────────┘    └────────────────┬──────┘
+         │                                        │
+    ┌────▼──────────────────┐    ┌───────────────▼──────┐
+    │   VECTOR DATABASE     │    │   LLM SERVICE        │
+    │   (data/faiss_index/) │    │   (External API)     │
+    │                       │    │                      │
+    │ • index.faiss        │    │ • OpenAI / Similar   │
+    │ • Embeddings         │    │ • Model selection    │
+    └──────────────────────┘    └──────────────────────┘
+
+         │ ◄─────────────────────────────────────► │
+         │        DATA INGESTION PIPELINE         │
+         │           (ingest.py)                  │
+         │                                        │
+    ┌────▼────────────────────────────────────────▼──────┐
+    │        PERSISTENT STORAGE (Database Layer)        │
+    │                                                    │
+    │ • rag_saas.db (SQLite)                          │
+    │ • users.json (User management)                  │
+    │ • Caching layer (cashe.py)                      │
+    └────────────────────────────────────────────────────┘
+
+================================================================================
+KEY DEPENDENCIES & INTEGRATIONS
+================================================================================
+
+• Language Model: LLM API (OpenAI/other)
+• Vector Search: FAISS (Facebook AI Similarity Search)
+• Database: SQLite (rag_saas.db)
+• Web Framework: Flask or FastAPI
+• Monitoring: Prometheus metrics
+• Embeddings: Sentence Transformers / OpenAI Embeddings
+
+================================================================================
+CONFIGURATION & ENVIRONMENT
+================================================================================
+
+Configuration is loaded from:
+1. .env file (environment variables)
+2. config.py (Python configuration)
+3. prometheus.yml (monitoring settings)
+
+Key environment variables:
+- Database URLs and credentials
+- API keys for LLM services
+- Vector store paths
+- Logging levels
+
+================================================================================
+ENTRY POINTS & EXECUTION FLOW
+================================================================================
+
+1. Primary Entry Point: app.py
+   - Initializes the web application
+   - Loads configuration from config.py
+   - Sets up routes and middleware
+
+2. User Request Flow:
+   frontend/ → app.py → retriever.py → generator.py → LLM
+
+3. Data Processing Flow:
+   ingest.py → data/docs/ → Data processing → FAISS index
+
+4. Monitoring Flow:
+   app.py → metrics.py → prometheus.yml → Prometheus
+
+================================================================================
+FILE SIZES & STORAGE
+================================================================================
+
+Critical Storage Elements:
+• rag_saas.db: SQLite database (size varies)
+• data/faiss_index/index.faiss: Vector index (size varies by document count)
+• logs/app.log: Application logs (grows over time)
+
+Cache Directories:
+• __pycache__/: Python bytecode cache
+• models/__pycache__/: Model module cache
+• utils/__pycache__/: Utility module cache
+
+================================================================================
+DEVELOPMENT & MAINTENANCE
+================================================================================
+
+Required Packages:
+- See requirements.txt for complete dependency list
+- Install with: pip install -r requirements.txt
+
+To Run the Application:
+- Set environment variables in .env
+- Execute: python app.py
+
+To Ingest Documents:
+- Use: python ingest.py
+- Place documents in data/docs/
+
+To Monitor Metrics:
+- Access Prometheus metrics via configured endpoint
+- Configuration in prometheus.yml
+
+================================================================================
+END OF PROJECT STRUCTURE DOCUMENTATION
+================================================================================

@@ -1,0 +1,4820 @@
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 974)
+
+You are an expert assistant. You must ONLY answer based on the provided context.
+If the answer is not present in the context, reply exactly:
+"I don't have enough information."
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+
+Question:
+Hello
+
+Response from LLM
+I don't have enough information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 846)
+
+You are an expert assistant. You must ONLY answer based on the provided context.
+If the answer is not present in the context, reply exactly:
+"I don't have enough information."
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+
+Question:
+How can you help me?
+
+Response from LLM
+I don't have enough information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1554)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+
+Question:
+Hi
+
+Response from LLM
+Raghav Modi.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+
+Question:
+How can you help me today?
+
+Response from LLM
+Everything FREE today
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1519)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+
+Question:
+Could you summarize the book which I shared it recently?
+
+Response from LLM
+No
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1800)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+
+Question:
+Why not?
+
+Response from LLM
+Being honest matters more than looking good
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1637)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+
+Question:
+Are you understand what I'm saying?
+
+Response from LLM
+Yes
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1690)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+
+Question:
+Tell me what I meant
+
+Response from LLM
+10 days. Real numbers. 10 posts published [X]K total impressions [X] comments received [X]+ new followers 2 hrs total time spent 0 posts ever missed
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1537)
+
+You are an expert assistant. Answer the user question based on the provided context below. 
+If the information is not in the context, politely say that you don't have enough information.
+
+Context:
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+
+Question:
+What are you talking about?
+
+Response from LLM
+No information is provided.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1511)
+
+Answer the following Question based ONLY on the provided Context. 
+Be concise and factual. If the answer is not in the context, say "I'm sorry, I don't have that information."
+
+Context:
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+
+Question:
+Hi Mate
+
+Answer:
+Response from LLM
+I'm sorry, I don't have that information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1893)
+
+Answer the following Question based ONLY on the provided Context. 
+Be concise and factual. If the answer is not in the context, say "I'm sorry, I don't have that information."
+
+Context:
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+
+Question:
+what's your name?
+
+Answer:
+Response from LLM
+I'm sorry, I don't have that information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+Answer the following Question based ONLY on the provided Context. 
+Be concise and factual. If the answer is not in the context, say "I'm sorry, I don't have that information."
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+
+Question:
+How can you help me today?
+
+Answer:
+Response from LLM
+I'm sorry, I don't have that information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1511)
+
+You are an expert AI assistant. Use the following pieces of retrieved context to answer the question. 
+If the context doesn't have a direct answer but is related, summarize the relevant parts of the context for the user.
+If the context is completely irrelevant, say "I'm sorry, I don't have that information."
+
+Context:
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+
+Question:
+Hi Mate
+
+Helpful Answer:
+Response from LLM
+I'm sorry, I don't have that information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+You are an expert AI assistant. Use the following pieces of retrieved context to answer the question. 
+If the context doesn't have a direct answer but is related, summarize the relevant parts of the context for the user.
+If the context is completely irrelevant, say "I'm sorry, I don't have that information."
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+
+Question:
+How can you help me today?
+
+Helpful Answer:
+Response from LLM
+I'm sorry, I don't have that information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+
+Question: How can you help me today?
+Answer:
+Response from LLM
+Everything FREE today
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1893)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+
+Question: What's your name?
+Answer:
+Response from LLM
+Claude
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1633)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+
+Question: Could you summarize the PDF book which I shared it with you recently in your data folder?
+Answer:
+Response from LLM
+The full system in one slide Claude AI Strategy + all content writing Claude in Chrome Browser automation — zero clicks Canva PDF carousel structure guide
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1740)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+
+Question: Coud you give me some information about the dogs?
+Answer:
+Response from LLM
+i would be happy to
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1540)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+
+Question: Go ahead and tell me then
+Answer:
+Response from LLM
+What worked vs what didn't
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1740)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+
+Question: Coud you give me some information about the dogs?
+Answer:
+Response from LLM
+i would be happy to
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1740)
+
+The following context is retrieved from documents. Use it to answer the question as an expert assistant.
+
+Context:
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+
+Question: Tell me some information about the dogs
+Answer:
+Response from LLM
+The dogs are named Claude and Claudette
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1626)
+
+You are an expert assistant that only uses provided context. 
+If the question cannot be answered using the context, you must say "I don't have enough information."
+Do not use any outside knowledge.
+
+Context:
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+
+Question: Hello Mate
+Answer:
+Response from LLM
+I don't have enough information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+You are an expert assistant that only uses provided context. 
+If the question cannot be answered using the context, you must say "I don't have enough information."
+Do not use any outside knowledge.
+
+Context:
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+
+Question: How can you help me today?
+Answer:
+Response from LLM
+I don't have enough information.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1664)
+
+Answer the question based on the context provided.
+Context: 2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+Question: Hey Mate
+Answer:
+Response from LLM
+(iii)
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+Question: How can you help me today?
+Answer:
+Response from LLM
+[ii]
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1511)
+
+Answer the question based on the context provided.
+Context: 2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+Question: Hi Mate
+Answer:
+Response from LLM
+Raghav Modi
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+Question: How can you help me today?
+Answer:
+Response from LLM
+[ii]
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1637)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+Question: Are you okay?
+Answer:
+Response from LLM
+(iii).
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1599)
+
+Answer the question based on the context provided.
+Context: 2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+Question: I can't understand what do you mean
+Answer:
+Response from LLM
+a).
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1554, Tokens: 417)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+Question: Hi
+Answer:
+Response from LLM
+iii.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1554, Tokens: 417)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+Question: Hi
+Answer:
+Response from LLM
+Raghav Modi is the data analyst
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1530, Tokens: 411)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+Question: How can you help me today?
+Answer:
+Response from LLM
+[a]../
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1669, Tokens: 452)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+Question: Give me a clear answers
+Answer:
+Response from LLM
+ To everyone who followed, liked, commented, and shared --- this is just the beginning. The AI isn't stopping. Daily content. Infinite consistency. Tag someone who needs to see this
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1637, Tokens: 448)
+
+Answer the question based on the context provided.
+Context: 4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+Question: Tell me a new joke
+Answer:
+Response from LLM
+Raghav Modi: 'No replies in hr 1 = post gets buried'
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1637, Tokens: 451)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+Question: Can you understand what I'm saying?
+Answer:
+Response from LLM
+(C).).
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1967, Tokens: 520)
+
+Answer the question based on the context provided.
+Context: 4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+Question: What do you mean?
+Answer:
+Response from LLM
+They want to tell people how to automate their content.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1740, Tokens: 452)
+
+Answer the question based on the context provided.
+Context: 1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+Question: How to automate the LinkedIn content?
+Answer:
+Response from LLM
+d. and c).
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1542, Tokens: 403)
+
+Answer the question based on the context provided.
+Context: 1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+Question: Tell me some information about the LinkedIn posts
+Answer:
+Response from LLM
+a). The posts were for AI for 10 days
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1554, Tokens: 417)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+Question: Hi
+Answer:
+Response from LLM
+(iv)..
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1893, Tokens: 500)
+
+Answer the question based on the context provided.
+Context: Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+Question: What's your name?
+Answer:
+Response from LLM
+(b).s.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1633, Tokens: 430)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+Question: Tell me about the PDF book
+Answer:
+Response from LLM
+Format is strategy PDFs aren't just design — they're algorithm fuel
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1559, Tokens: 408)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+Question: Sumarize this book
+Answer:
+Response from LLM
+i.e. a way to automate your work
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1554, Tokens: 417)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+Question: Hi
+Answer:
+Response from LLM
+[B]. The person who is talking is a data analyst
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1633, Tokens: 435)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+Question: Could you tell me the name of the PDF book?
+Answer:
+Response from LLM
+(c)..in the first paragraph, it is not mentioned.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2394, Tokens: 621)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+4. Data Ingestion Pipeline
+“I implemented a document ingestion pipeline that:
+• Loads enterprise documents using UnstructuredFileLoader
+• Splits them into chunks using RecursiveTextSplitter
+• Converts them into embeddings using Hugging Face sentence-transformers
+• Stores them in a FAISS vector database
+This enables efficient semantic search.”
+5. Vector Search (FAISS)
+“I used FAISS for:
+• High-performance similarity search
+• Low-latency retrieval
+• Local deployment without external dependencies
+Each user query is converted into an embedding and matched against stored document chunks.”
+6. LLM Integration (Hugging Face)
+“I integrated a free open-source LLM (Flan-T5) using Hugging Face to:
+• Generate answers based only on retrieved context
+• Avoid hallucinations via prompt engineering
+The prompt strictly enforces:
+‘Only answer from the provided context, otherwise say you don’t know.’”
+7. Backend (FastAPI)
+“I built the backend using FastAPI, which provides:
+• High performance (async-ready)
+Question: Could you summarize the PDF book?
+Answer:
+Response from LLM
+The full system in one slide
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1554, Tokens: 417)
+
+Answer the question based on the context provided.
+Context: 9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+2 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10 days. Real numbers.
+10
+posts published
+[X]K
+total impressions
+[X]
+comments received
+[X]+
+new followers
+~2 hrs
+total time spent
+0
+posts ever missed
+Fill in [X] with your real numbers on Day 10
+Swipe to see what worked vs what didn't →
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+10 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Follow Raghav Modi
+This is just Day 10.
+The automation continues.
+Comment  AI  for the
+free resource bundle ■
+#AI
+#BuildInPublic
+#DataAnalytics
+#LinkedInAutomation
+#FreeResource
+4 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What didn't work
+(being honest matters more than looking good)
+Single image posts
+30% less reach — confirmed every time
+Generic hooks
+Low dwell time = algorithm buries it
+Posting and ghosting
+No replies in hr 1 = post gets buried
+5+ hashtags
+Hurt more than helped in 2026
+Transparency builds more trust than perfection.
+Question: Hi
+Answer:
+Response from LLM
+[3]. "You don't have to be a professional to use this. You can make a difference."
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1633, Tokens: 432)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+Question: Tell me the name of the PDF book
+Answer:
+Response from LLM
+Claude AI Strategy + all content writing
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1962, Tokens: 500)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+Enterprise Chatbot Project Overview The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments. Key features: - Answers questions from uploaded documents. - Reduces hallucinations by cross-referencing context. - Uses FastAPI for a scalable API layer. - Uses FAISS for efficient vector searching. - Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic. Security is a top priority, with support for encryption at rest and in transit.
+Question: Tell me PDF book name
+Answer:
+Response from LLM
+Claude AI Strategy + all content writing
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 1578, Tokens: 416)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+9 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Thank you. ■
+To everyone who followed,
+liked, commented, and shared —
+this is just the beginning.
+The AI isn't stopping.
+Daily content. Infinite consistency.
+Tag someone who needs to see this ■
+Share the post — it could change how they work
+7 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+Everything FREE today ■
+1
+The full LinkedIn post prompt template
+2
+The DataGen Agent system prompt
+3
+The 10-day content calendar template
+4
+The connection analysis AI framework
+5
+The Canva carousel structure guide
+Comment  AI  to get everything
+100% free. Just comment below ■
+1 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+I ran my LinkedIn on AI
+for 10 days straight.
+Here are the
+FULL results.
++ everything FREE at the end ■
+Swipe for the full breakdown →
+#BuildInPublic
+#AI
+#DataAnalytics
+#LinkedInAutomation
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+Question: Summarize this book
+Answer:
+Response from LLM
+Raghav Modi talks about how he ran his LinkedIn on AI for 10 days.
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 4362, Tokens: 768)
+
+Answer the question based on the context provided.
+Context: ================================================================================
+
+FILE DESCRIPTIONS & PURPOSES
+
+================================================================================
+
+CORE MODULES: ───────────── • app.py - Main application entry point - Web framework configuration (Flask/FastAPI) - Route definitions and API endpoints - Global middleware and error handling
+
+config.py
+
+Environment configuration management
+
+Database connection strings
+
+API keys and secrets management
+
+Application constants and settings
+
+models.py
+
+Core data models and structures
+
+Database ORM models
+
+Data validation logic
+
+generator.py
+
+LLM prompt engineering and generation
+
+Response generation from RAG pipeline
+
+Conversation history management
+
+Token counting and optimization
+
+retriever.py
+
+Vector database query interface
+
+Semantic search implementation
+
+Document relevance ranking
+
+Query expansion and refinement
+
+ingest.py
+
+Document upload and processing
+
+Text extraction and chunking
+rag_saas/ │ ├── app.py                      # FastAPI backend (JWT + API endpoints) ├── config.py                   # Central configuration (models, DB, secrets) ├── ingest.py                   # Document ingestion + FAISS index builder ├── retriever.py                # FAISS retriever loader (with safe deserialization) ├── generator.py                # Hugging Face LLM (Flan-T5) ├── requirements.txt            # Dependencies │ ├── faiss_index/                # Generated vector DB (auto-created) │   ├── index.faiss │   └── index.pkl │ ├── data/ │   └── docs/                  # Your knowledge base (.txt files) │       ├── doc1.txt │       ├── doc2.txt │       └── ... │ ├── frontend/                  # Simple UI (optional but good for demo) │   ├── index.html │   ├── main.js │   └── style.css │ ├── database/ │   └── users.db              # SQLite DB (auto-created) │ └── utils/                     # Optional utilities (for scaling) ├── logger.py └── metrics.py
+🏗️Final Project Structure (Latest & Correct)
+rag_saas/
+│
+├── app.py                      # FastAPI backend (JWT + API endpoints)
+├── config.py                   # Central configuration (models, DB, secrets)
+├── ingest.py                   # Document ingestion + FAISS index builder
+├── retriever.py                # FAISS retriever loader (with safe 
+deserialization)
+├── generator.py                # Hugging Face LLM (Flan-T5)
+├── requirements.txt            # Dependencies
+│
+├── faiss_index/                # Generated vector DB (auto-created)
+│   ├── index.faiss
+│   └── index.pkl
+│
+├── data/
+│   └── docs/                  # Your knowledge base (.txt files)
+│       ├── doc1.txt
+│       ├── doc2.txt
+│       └── ...
+│
+├── frontend/                  # Simple UI (optional but good for demo)
+│   ├── index.html
+│   ├── main.js
+│   └── style.css
+│
+├── database/
+│   └── users.db              # SQLite DB (auto-created)
+│
+└── utils/                     # Optional utilities (for scaling)
+│       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+Question: Tell me about the book name
+Answer:
+Response from LLM
+Hugging Face LLM (Flan-T5)
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2864, Tokens: 768)
+
+Answer the question based on the context provided.
+Context: │       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+│ │   (retriever.py)      │    │ (generator.py)        │ │                       │    │                       │ │ • Query processing    │    │ • Prompt engineering  │ │ • Vector search       │    │ • LLM integration     │ │ • Doc ranking         │    │ • Response streaming  │ └────┬──────────────────┘    └────────────────┬──────┘ │                                        │ ┌────▼──────────────────┐    ┌───────────────▼──────┐ │   VECTOR DATABASE     │    │   LLM SERVICE        │ │   (data/faiss_index/) │    │   (External API)     │ │                       │    │                      │ │ • index.faiss        │    │ • OpenAI / Similar   │ │ • Embeddings         │    │ • Model selection    │ └──────────────────────┘    └──────────────────────┘
+Question: I mean PDF book name
+Answer:
+Response from LLM
+ LinkedIn_Pilot.pdf
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2479, Tokens: 742)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+│       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+Question: Tell me about the PDF book name
+Answer:
+Response from LLM
+Project_Structure.pdf
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2479, Tokens: 744)
+
+Answer the question based on the context provided.
+Context: 3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+│       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+Question: How many PDF book do you have now?
+Answer:
+Response from LLM
+[I]. There are more than 5 books
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 4103, Tokens: 768)
+
+Answer the question based on the context provided.
+Context: │       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+rag_saas/ │ ├── app.py                      # FastAPI backend (JWT + API endpoints) ├── config.py                   # Central configuration (models, DB, secrets) ├── ingest.py                   # Document ingestion + FAISS index builder ├── retriever.py                # FAISS retriever loader (with safe deserialization) ├── generator.py                # Hugging Face LLM (Flan-T5) ├── requirements.txt            # Dependencies │ ├── faiss_index/                # Generated vector DB (auto-created) │   ├── index.faiss │   └── index.pkl │ ├── data/ │   └── docs/                  # Your knowledge base (.txt files) │       ├── doc1.txt │       ├── doc2.txt │       └── ... │ ├── frontend/                  # Simple UI (optional but good for demo) │   ├── index.html │   ├── main.js │   └── style.css │ ├── database/ │   └── users.db              # SQLite DB (auto-created) │ └── utils/                     # Optional utilities (for scaling) ├── logger.py └── metrics.py
+🏗️Final Project Structure (Latest & Correct)
+rag_saas/
+│
+├── app.py                      # FastAPI backend (JWT + API endpoints)
+├── config.py                   # Central configuration (models, DB, secrets)
+├── ingest.py                   # Document ingestion + FAISS index builder
+├── retriever.py                # FAISS retriever loader (with safe 
+deserialization)
+├── generator.py                # Hugging Face LLM (Flan-T5)
+├── requirements.txt            # Dependencies
+│
+├── faiss_index/                # Generated vector DB (auto-created)
+│   ├── index.faiss
+│   └── index.pkl
+│
+├── data/
+│   └── docs/                  # Your knowledge base (.txt files)
+│       ├── doc1.txt
+│       ├── doc2.txt
+│       └── ...
+│
+├── frontend/                  # Simple UI (optional but good for demo)
+│   ├── index.html
+│   ├── main.js
+│   └── style.css
+│
+├── database/
+│   └── users.db              # SQLite DB (auto-created)
+│
+└── utils/                     # Optional utilities (for scaling)
+│ │   (retriever.py)      │    │ (generator.py)        │ │                       │    │                       │ │ • Query processing    │    │ • Prompt engineering  │ │ • Vector search       │    │ • LLM integration     │ │ • Doc ranking         │    │ • Response streaming  │ └────┬──────────────────┘    └────────────────┬──────┘ │                                        │ ┌────▼──────────────────┐    ┌───────────────▼──────┐ │   VECTOR DATABASE     │    │   LLM SERVICE        │ │   (data/faiss_index/) │    │   (External API)     │ │                       │    │                      │ │ • index.faiss        │    │ • OpenAI / Similar   │ │ • Embeddings         │    │ • Model selection    │ └──────────────────────┘    └──────────────────────┘
+8 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+10-day recap
+Day 1
+AI takeover announcement
+Day 2
+Connection network analysis
+Day 3
+AI tool stack revealed
+Day 4
+5 Power BI tricks
+Day 5
+SQL query that saves 3 hrs/week
+Day 6
+DataGen AI Agent breakdown
+Day 7
+McKinsey + Data frameworks
+Day 8
+Student → 3x award winner story
+Day 9
+Honest mid-point results update
+Day 10
+Full results + free bundle ■
+Question: Tell me all Book names
+Answer:
+Response from LLM
+rag_saas/   app.py # FastAPI backend (JWT + API endpoints)  config.py # Central configuration (models, DB, secrets)  ingest.py # Document ingestion + FAISS index builder  retriever.py # FAISS retriever loader (with safe deserialization)  generator.py # Hugging Face LLM (Flan-T5)  requirements.txt # Dependencies   faiss_index/ # Generated vector DB (auto-created)   index.faiss
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2851, Tokens: 768)
+
+Answer the question based on the context provided.
+Context: │       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+│ │   (retriever.py)      │    │ (generator.py)        │ │                       │    │                       │ │ • Query processing    │    │ • Prompt engineering  │ │ • Vector search       │    │ • LLM integration     │ │ • Doc ranking         │    │ • Response streaming  │ └────┬──────────────────┘    └────────────────┬──────┘ │                                        │ ┌────▼──────────────────┐    ┌───────────────▼──────┐ │   VECTOR DATABASE     │    │   LLM SERVICE        │ │   (data/faiss_index/) │    │   (External API)     │ │                       │    │                      │ │ • index.faiss        │    │ • OpenAI / Similar   │ │ • Embeddings         │    │ • Model selection    │ └──────────────────────┘    └──────────────────────┘
+Question: Tell me the names of all PDF book you have now
+Answer:
+Response from LLM
+ Project_Structure.docx
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2479, Tokens: 742)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+│       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+Question: Tell me about the PDF book name
+Answer:
+Response from LLM
+Project_Structure.pdf
+--- END QUERY ---
+
+--- NEW QUERY ---
+Prompt Sent to LLM (Context Length: 2479, Tokens: 740)
+
+Answer the question based on the context provided.
+Context: 5 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The 3 biggest lessons
+1
+Consistency > Perfection
+5 decent posts beats 1 perfect post. Always.
+2
+Format is strategy
+PDFs aren't just design — they're algorithm fuel.
+3
+AI amplifies, not replaces
+AI = leverage. Your expertise = credibility.
+These 3 changed how I work forever.
+3 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+What worked best
+PDF Carousels
+3-4x more views vs text posts
+Replying to comments
+Each reply = 200+ extra impressions
+DM outreach
+40% of all comments came from DMs
+Free giveaway CTAs
+DATAGEN = most DM requests by far
+8hr reactivation comment
+Doubled each post's lifespan
+Carousels + comments = the winning formula.
+│       ├── metrics.py             # Metrics collection and monitoring │       └── __pycache__/ │ ├── Data & Vector Store │   ├── data/ │   │   ├── docs/                  # Documentation and reference materials │   │   │   ├── Commands.txt       # Command reference guide │   │   │   ├── overview.txt       # Project overview documentation │   │   │   ├── Project_Structure.txt (THIS FILE) │   │   │   ├── Project_Structure.docx  # MS Word structure document │   │   │   ├── Project_Structure.pdf   # PDF version │   │   │   ├── Project_Breifing.docx   # Project briefing document │   │   │   ├── Project_Breifing.pdf    # Project briefing PDF │   │   │   ├── Enterprise_Chatbot.docx # Main chatbot documentation │   │   │   └── LinkedIn_Pilot.pdf      # LinkedIn pilot information │   │   │ │   │   └── faiss_index/           # FAISS vector database index │   │       ├── index.faiss        # FAISS index binary file │   │       └── index.pkl          # Pickle serialized index metadata │   │ │
+6 / 10
+Raghav Modi
+Data Analyst  ·  AI Automation
+The full system in one slide
+Claude AI
+Strategy + all content writing
+Claude in Chrome
+Browser automation — zero clicks
+Canva
+PDF carousel creation
+LinkedIn Scheduler
+Auto-publish at 8:30 AM daily
+15-min routine
+Golden hour engagement daily
+8hr reactivation
+Extend every post's lifespan
+Total daily time: 15 minutes. That's it.
+• Generates answers using context
+ Uses:👉
+• transformers
+• Flan-T5
+ 🔹 faiss_index/
+• Stores vector database
+• Auto-created after ingestion
+ 🔹 data/docs/
+• Your knowledge base
+• Add .txt, .pdf, etc.
+ 🔹 frontend/
+• Simple UI to:
+• Login
+• Ask questions
+• Optional but great for demo
+ 🔹 database/users.db
+• Stores users
+• Created automatically
+ 🔹 requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+Question: Please summarize the PDF book
+Answer:
+Response from LLM
+Raghav Modi Data Analyst  AI Automation The 3 biggest lessons 1 Consistency > Perfection 5 decent posts beats 1 perfect post. Always.
+--- END QUERY ---

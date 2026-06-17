@@ -1,0 +1,29 @@
+INFO:     Will watch for changes in these directories: ['/home/master/Documents/My_Courses/GenAI_Projects/Enterprise_Chatbot_002']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [341734] using StatReload
+[32m2026-03-25 08:43:05[0m | [1mINFO    [0m | [36mapp.core.logging[0m:[36msetup_logging[0m:[36m39[0m - [1mLogging initialized[0m
+[32m2026-03-25 08:43:06[0m | [1mINFO    [0m | [36mapp.core.middleware[0m:[36msetup_middleware[0m:[36m151[0m - [1mMiddleware setup complete[0m
+INFO:     Started server process [341736]
+INFO:     Waiting for application startup.
+[32m2026-03-25 08:43:06[0m | [1mINFO    [0m | [36mmain[0m:[36mlifespan[0m:[36m28[0m - [1mStarting Enterprise RAG Chatbot[0m
+[32m2026-03-25 08:43:06[0m | [1mINFO    [0m | [36mapp.core.logging[0m:[36msetup_logging[0m:[36m39[0m - [1mLogging initialized[0m
+[32m2026-03-25 08:43:06[0m | [1mINFO    [0m | [36mmain[0m:[36mlifespan[0m:[36m35[0m - [1mDatabase initialized[0m
+[32m2026-03-25 08:43:06[0m | [31m[1mERROR   [0m | [36mapp.services.cache_service[0m:[36mconnect[0m:[36m33[0m - [31m[1mFailed to connect to Redis: Error 111 connecting to localhost:6379. 111.[0m
+[32m2026-03-25 08:43:06[0m | [1mINFO    [0m | [36mapp.services.llm_service[0m:[36minitialize[0m:[36m308[0m - [1mLLM Service initialized with provider: local[0m
+[32m2026-03-25 08:43:06[0m | [1mINFO    [0m | [36mapp.services.rag_service[0m:[36minitialize[0m:[36m30[0m - [1mInitializing RAG service[0m
+/home/master/Documents/My_Courses/GenAI_Projects/Enterprise_Chatbot_002/app/services/rag_service.py:33: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 0.3.0. An updated version of the class exists in the langchain-huggingface package and should be used instead. To use it run `pip install -U langchain-huggingface` and import as `from langchain_huggingface import HuggingFaceEmbeddings`.
+  self.embeddings = HuggingFaceEmbeddings(
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1774413793.485941  341736 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/home/master/.local/lib/python3.10/site-packages/google/api_core/_python_version_support.py:275: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+[32m2026-03-25 08:43:19[0m | [31m[1mERROR   [0m | [36mapp.services.rag_service[0m:[36minitialize[0m:[36m49[0m - [31m[1mFailed to load vector store: '__fields_set__'[0m
+[32m2026-03-25 08:43:19[0m | [1mINFO    [0m | [36mapp.core.telemetry[0m:[36msetup_opentelemetry[0m:[36m27[0m - [1mOpenTelemetry is disabled[0m
+[32m2026-03-25 08:43:19[0m | [1mINFO    [0m | [36mmain[0m:[36mlifespan[0m:[36m49[0m - [1mApplication started successfully on port 8000[0m
+INFO:     Application startup complete.
+[32m2026-03-25 08:45:31[0m | [1mINFO    [0m | [36mapp.core.middleware[0m:[36mdispatch[0m:[36m43[0m - [1mIncoming request[0m
+[32m2026-03-25 08:45:31[0m | [1mINFO    [0m | [36mapp.core.middleware[0m:[36mdispatch[0m:[36m60[0m - [1mRequest completed[0m
+INFO:     127.0.0.1:54890 - "GET /api/health HTTP/1.1" 200 OK
+/usr/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

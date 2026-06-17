@@ -1,0 +1,11 @@
+Enterprise Chatbot Project Overview
+The Enterprise Chatbot is a Production-Ready RAG (Retrieval-Augmented Generation) system designed for banking-ready environments.
+Key features:
+- Answers questions from uploaded documents.
+- Reduces hallucinations by cross-referencing context.
+- Uses FastAPI for a scalable API layer.
+- Uses FAISS for efficient vector searching.
+- Powered by LangChain and OpenAI.
+
+The system is deployable via Docker and can scale to handle enterprise-level traffic.
+Security is a top priority, with support for encryption at rest and in transit.
